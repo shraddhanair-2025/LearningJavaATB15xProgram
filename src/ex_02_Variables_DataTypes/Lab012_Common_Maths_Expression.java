@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_Variables_DataTypes;
 
 public class Lab012_Common_Maths_Expression {
     public static void main(String[] args) {
