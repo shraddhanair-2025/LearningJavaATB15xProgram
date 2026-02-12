@@ -1,6 +1,5 @@
 package ex_04_Operators;
 
-import java.util.SortedMap;
 
 public class Lab038_Operator_Modulus {
     public static void main(String[] args) {

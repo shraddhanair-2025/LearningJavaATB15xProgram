@@ -1,7 +1,5 @@
 package ex_05_TypeCasting;
 
-import javax.sound.midi.Soundbank;
-
 public class Lab059_TypeCasting_Narrrowing {
     public static void main(String[] args) {
 

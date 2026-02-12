@@ -6,6 +6,6 @@ public class Lab027_Multiple_Variables {
      //  int _ = 10, $ = 34;
        // int @ = 10; will not work
         // System.out.println(_); There is some issue of printing _ in java
-        System.out.println();
+        System.out.println(a);
     }
 }

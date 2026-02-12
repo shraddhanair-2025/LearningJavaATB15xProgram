@@ -8,7 +8,7 @@ public class Lab022_Numerics_data_Types {
         char c = 'A';
         char c1 = '@';
         char c2 = '_';
-        //int phone = 9876543210;
+        //int phone = 9876543210; //not possible
         long pnone = 9876543210l;
         long pnone1 = 9876543210L;
 

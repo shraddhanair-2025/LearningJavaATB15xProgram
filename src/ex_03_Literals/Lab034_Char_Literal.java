@@ -23,9 +23,10 @@ public class Lab034_Char_Literal {
 
         System.out.println("PramodeDutta");
         System.out.println("Pramod"+new_line+"Dutta");
-        System.out.println("pramod\nDutta");
+        System.out.println("shraddha\nnair"); //it will remove 1st centance
         System.out.println("pramod"+tab_line+"Dutta");
         System.out.println("pramod"+back_space+"Dutta");
+        System.out.println("pramod\rDutta");
 
         System.out.println("Hi, This is first line"+tab_line+"this is second line"+tab_line+"This is third line");
 
